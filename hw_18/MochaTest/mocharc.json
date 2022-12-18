@@ -1,0 +1,6 @@
+{
+  "extension": ["ts"],
+  "spec": ["hw_18/*.spec.*"],
+  "require": ["ts-node/register"],
+  "loader": "ts-node/esm"
+}
